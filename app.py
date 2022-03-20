@@ -32,6 +32,9 @@ def predict():
         data = 'person is not dibatic'
     else:
         data = 'person is dibatic'
+        
+     if __name__  == "__main__":
+        app.run(debug=True)
 
         
 
