@@ -1,1 +1,1 @@
-:guincorn app:app
+web : guincorn app:app

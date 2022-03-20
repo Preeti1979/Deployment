@@ -1,7 +1,0 @@
-/ gallery ----> welcome to gallery page
-
-/-----> welcome to home page
-
-/cart ------> welcome to cart page
-
-/contact -----> welcome to contact page
